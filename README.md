@@ -1,2 +1,2 @@
 # algorithms
-interview questions of algorithms
+competitive coding questions of algorithms
